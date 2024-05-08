@@ -1,0 +1,25 @@
+form {
+  text-align: left;
+  font-family: sans-serif;
+
+  margin: 10px auto;
+  padding: 30px;
+
+  max-width: 300px;
+}
+
+label {
+  display: block;
+  margin: 14px 0;
+}
+
+input[type="text"],
+input[type="email"],
+button {
+  display: block;
+  width: 100%;
+}
+
+button {
+  height: 2.6em;
+}
